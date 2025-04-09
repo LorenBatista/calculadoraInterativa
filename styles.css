@@ -52,12 +52,12 @@ body {
 }
 
 .operator {
-    background: #ff9500;
+    background: rgb(1, 196, 255);
     color: #fff;
 }
 
 .operator:hover {
-    background: #ffaa33;
+    background: rgb(1, 196, 255);
 }
 
 .clear, .equals {
